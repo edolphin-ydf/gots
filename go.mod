@@ -1,4 +1,4 @@
-module github.com/sshelll/gots
+module github.com/edolphin-ydf/gots
 
 go 1.19
 

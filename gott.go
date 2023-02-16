@@ -6,7 +6,7 @@ import (
 	"go/token"
 	"os"
 
-	"github.com/sshelll/gots/util"
+	"github.com/edolphin-ydf/gots/util"
 	"github.com/sshelll/sinfra/ast"
 )
 
